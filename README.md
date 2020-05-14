@@ -15,3 +15,4 @@ Xây dựng Machine Learning model từ python thuần cho đến các thư vi�
 - <a href="./models/logistic-regression">6. Bài toán phân loại (Classification)</a> 
 - <a href="./deployment/distributed-tensorflow">7. Triển khai (Deploy) Machine Learning Model trên Production</a> 
 - <a href="./deployment/tensorflow-browser">8. Machine Learning trên trình duyệt và TensorFlowJS</a>
+.
